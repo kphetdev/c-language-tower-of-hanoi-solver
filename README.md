@@ -1,3 +1,3 @@
 ## The Tower of Hanoi Solver
 
-Tower of Hanoi solver in C language
+Tower of Hanoi solver in C language with Recursion
